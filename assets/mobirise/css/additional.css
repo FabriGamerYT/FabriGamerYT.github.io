@@ -1448,7 +1448,7 @@ a {
 .cid-u2qMgZHKoT {
   padding-top: 5rem;
   padding-bottom: 2rem;
-  background-color: #edefeb;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-u2qMgZHKoT .mbr-fallback-image.disabled {
   display: none;
@@ -1807,7 +1807,7 @@ a {
 .cid-u2qWJryg5L {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background: #edefeb;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-u2qWJryg5L .mbr-fallback-image.disabled {
   display: none;
@@ -1863,7 +1863,7 @@ a {
 }
 .cid-u2qWJryg5L .card-wrapper {
   padding: 2.25rem;
-  background: #ffffff;
+  background: #a6a99c;
 }
 @media (min-width: 992px) and (max-width: 1200px) {
   .cid-u2qWJryg5L .card-wrapper {
